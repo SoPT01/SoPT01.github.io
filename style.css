@@ -1,4 +1,10 @@
 body{
     color: lawngreen;
-    background-color: gray;
+    background: gray url('source.gif') 1em 1em fixed;
+}
+figure{
+    margin: 0;
+}
+.litilmynd {
+    width: 300px;
 }
